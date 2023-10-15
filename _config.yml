@@ -14,9 +14,8 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title:  AlfonsoAdiego.es # the main title
-
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+title:  Alfonso Adiego
+tagline: Software Engineer
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,16 +25,15 @@ description: >- # used by seo meta and the atom feed
 url: "https://alfonsoadiego.github.io"
 
 github:
-  username: github_username # change to your github username
-
+  username: alfonsoadiego
 twitter:
-  username: twitter_username # change to your twitter username
-
+  username: alfonso_adiego
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Alfonso Adiego Gonzalez
+  email: alfonso.adiego@gmail.com
+
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
