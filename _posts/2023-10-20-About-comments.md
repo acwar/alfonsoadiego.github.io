@@ -4,6 +4,8 @@ date: 2023-10-20 08:00:00 +0200
 categories: [Design]
 tags: [code]
 pin: true
+image:
+  path: /common/coments-image.jpeg
 ---
 Se sostiene a menudo que el libro más perjudicial no es aquel que no se lee, sino el que no se comprende. Dentro de la corriente del "Clean Code", hay un aspecto que, similarmente a la "S" de SOLID, no se aborda con la perspectiva adecuada.
 
