@@ -1,6 +1,5 @@
 ---
 title: Comentarios en comentarios
-author: A.Adiego
 date: 2023-10-20 08:00:00 +0200
 categories: [Design]
 tags: [code]
@@ -20,4 +19,3 @@ de toda la historia que nos presenta el escritor.
 
 El ámbito! ¿En que contexto se aplica este constraint? Siguiendo con la analogia del escritor
 
-## ¿
