@@ -17,5 +17,13 @@ de toda la historia que nos presenta el escritor.
 
 ## ¿Donde está el problema?
 
-El ámbito! ¿En que contexto se aplica este constraint? Siguiendo con la analogia del escritor
+Como norma general, siguiendo el conocido _Divide and Conquer_, un desarrollo se divide en piezas mas pequeñas que
+pueden ser acometidas por un ingeniero, iterando tantas veces sean necesarias hasta que puedes tener el problema
+suficientemente granulado.
+
+La solución final es por tanto la suma de todos esos problemas pequeños, ¿a partir de que punto todos esos problemas
+no tienen la linealidad suficente para ser leidos sin perder el contexto? ¿Cuanto detalle de un libro puedes retener
+en antes de tener que volver a consultarlo? 
+
+## El Como y el Porqué
 
