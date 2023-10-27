@@ -2,7 +2,7 @@
 title: Contaminacion de decode404 en Feign.Builder
 date: 2023-10-27 08:00:00 +0200
 categories: [Java]
-tags: [code spring feign]
+tags: [code,spring,feign]
 pin: true
 image:
   path: /common/opefeign404-image.jpeg
