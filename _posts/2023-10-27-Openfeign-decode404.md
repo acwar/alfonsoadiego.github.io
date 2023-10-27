@@ -5,7 +5,7 @@ categories: [Java]
 tags: [code spring feign]
 pin: true
 image:
-  path: /common/coments-image.jpeg
+  path: /common/opefeign404-image.jpeg
 ---
 
 ## Introducción
